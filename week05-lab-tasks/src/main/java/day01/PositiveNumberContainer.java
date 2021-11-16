@@ -9,7 +9,7 @@ public class PositiveNumberContainer {
     public void addNumbersToList(double number){
         positiveNumberList.add(number);
     }
-    
+
     public ArrayList<Double> getPositiveNumberList() {
         return positiveNumberList;
     }
